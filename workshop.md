@@ -6,9 +6,15 @@ title: Online Workshop - Model order reduction for parametric partial differenti
 ## 15 September 2023
 ## 22 September 2023
 
-Topics include (but are not restricted to) model order reduction for Port-Hamiltonian systems, Data-driven and scientific machine based model order reduction with application to engineering and industrial problems.
+Topics include (but are not restricted to) model order reduction for
+Port-Hamiltonian systems, Data-driven and scientific machine based
+model order reduction with application to engineering and industrial
+problems.
 
-Confirmed speaker: Francesco Ballarin (Catholic University of Sacred Heart), Volker Mehrmann (TU Berlin), Gianluigi Rozza (SISSA)
+Confirmed speakers:
+* Francesco Ballarin (Università Cattolica del Sacro Cuore, Brescia)
+* Volker Mehrmann (TU Berlin)
+* Gianluigi Rozza (SISSA)
 
 ### Day 1: 15 September
 
@@ -26,5 +32,7 @@ All times in GMT
 
 
 #### Registration
+
+Coming soon
 
 <!--- [Registration](https://www.eventbrite.co.uk/e/online-workshop-mathematical-theory-of-coupling-methods-for-pdes-tickets-420629453017) is required to access the Zoom Webinar --->
