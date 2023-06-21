@@ -3,8 +3,7 @@ layout: page
 title: Online Workshop - Model order reduction for parametric partial differential equations
 ---
 
-## 15 September 2023
-## 22 September 2023
+## 15 September 2023 and 22 September 2023
 
 Topics include (but are not restricted to) model order reduction for
 Port-Hamiltonian systems, Data-driven and scientific machine based
@@ -19,7 +18,12 @@ Confirmed speakers:
 
 ### Day 1: 15 September
 
-- TBC
+- 13.00-13.15 Introduction
+- 13.15-14.00 Gianluigi Rozza
+- 14.00-15.00 Urban Fasel
+- 15.00-15.30 Coffee break
+- 15.30-16.15
+- 16.15-17.00
 
 <!--- 13.00-13.15 Introduction --->
 <!--- 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions) [recording](https://youtu.be/zWtJidU7GFs) --->
@@ -27,7 +31,11 @@ Confirmed speakers:
 
 ### Day 2: 22 September
 
-- TBC
+- 13.00-13.15 Introduction
+- 13.15-14.00 Francesco Ballarin
+- 14.00-15.00 Volker Mehrmann
+- 15.30-16.15
+- 16.15-17.00
 
 All times in GMT
 
