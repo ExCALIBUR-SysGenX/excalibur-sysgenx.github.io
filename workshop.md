@@ -20,10 +20,10 @@ Confirmed speakers:
 
 - 13.00-13.15 Introduction
 - 13.15-14.00 Gianluigi Rozza
-- 14.00-15.00 Urban Fasel
+- 14.00-15.00 
 - 15.00-15.30 Coffee break
 - 15.30-16.15
-- 16.15-17.00
+- 16.15-17.00 Urban Fasel
 
 <!--- 13.00-13.15 Introduction --->
 <!--- 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions) [recording](https://youtu.be/zWtJidU7GFs) --->
