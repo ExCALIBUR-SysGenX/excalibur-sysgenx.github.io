@@ -20,13 +20,10 @@ Confirmed speakers:
 
 - 13.00-13.15 Introduction
 - 13.15-14.00 Gianluigi Rozza
-- 14.00-15.00 
+- 14.00-15.00
 - 15.00-15.30 Coffee break
 - 15.30-16.15
 - 16.15-17.00 Urban Fasel
-
-<!--- 13.00-13.15 Introduction --->
-<!--- 13.15-14.15 Silvia Bertoluzza: [_Coupling black box solvers under minimal assumptions_](#silvia-bertoluzza-coupling-black-box-solvers-under-minimal-assumptions) [recording](https://youtu.be/zWtJidU7GFs) --->
 
 
 ### Day 2: 22 September
@@ -42,6 +39,4 @@ All times in GMT
 
 #### Registration
 
-Coming soon
-
-<!--- [Registration](https://www.eventbrite.co.uk/e/online-workshop-mathematical-theory-of-coupling-methods-for-pdes-tickets-420629453017) is required to access the Zoom Webinar --->
+[Registration](https://www.eventbrite.co.uk/e/666842954227) is required to access the Zoom Webinar
