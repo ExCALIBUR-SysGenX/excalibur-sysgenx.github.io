@@ -13,7 +13,9 @@ problems.
 Confirmed speakers:
 * Francesco Ballarin (Università Cattolica del Sacro Cuore, Brescia)
 * Urban Fasel (Imperial College, London)
+* Dirk Hartmann (Siemens)
 * Volker Mehrmann (TU Berlin)
+* Mario Ohlberger (University of Münster)
 * Gianluigi Rozza (SISSA, Trieste)
 
 ### Day 1: 15 September 13:00-17:00
