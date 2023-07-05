@@ -11,18 +11,18 @@ Topics include (but are not restricted to) Neural networks and numerical PDEs, S
 
 - 13:00 - 13:15: Opening statement (Garth Wells; University of Cambridge)
 - 13:15 - 14:00: (Gianluigi Rozza; Scuola Internazionale Superiore di Studi Avanzati, Trieste)
-- 14:00 - 14:45: (Mario Ohlberger, Westfälische Wilhelms-Universität Münster)
+- 14:00 - 14:45: (Mario Ohlberger; Westfälische Wilhelms-Universität Münster)
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: (Urban Fasel, Imperial College, London)
-- 16:00 - 16:45: (Zhiqiang Cai, Purdue University)
+- 15:15 - 16:00: (Urban Fasel; Imperial College, London)
+- 16:00 - 16:45: (Zhiqiang Cai; Purdue University)
 
 ### Day 2: 22 September 13:00-17:00
 
 - 13:00 - 13:15: Introduction
 - 13:15 - 14:00: (Volker Mehrmann; Technische Universität Berlin)
-- 14:00 - 14:45: (Dirk Hartmann, Siemens)
+- 14:00 - 14:45: (Dirk Hartmann; Siemens)
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: (Francesco Ballarin, Università Cattolica del Sacro Cuore, Brescia)
+- 15:15 - 16:00: (Francesco Ballarin; Università Cattolica del Sacro Cuore, Brescia)
 - 16:00 - 16:30: Closing remarks
 
 All times in BST (GMT + 1) time zone
