@@ -3,7 +3,7 @@ layout: page
 title: Online Workshop - Scientific machine learning and Model order reduction for partial differential equations
 ---
 
-Topics include (but are not restricted to) Neural networks and numerical PDEs, Scientific machine learning and Model order reduction with application to engineering and industrial problems.
+Topics include (but are not restricted to) computational fluid dynamics, model order reduction, neural networks and numerical PDEs, port-Hamiltonian systems and scientific machine learning with application to engineering and industrial problems.
 
 ## Schedule
 
