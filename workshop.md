@@ -25,7 +25,7 @@ Topics include (but are not restricted to) Neural networks and numerical PDEs, S
 - 15:15 - 16:00: (Francesco Ballarin; Università Cattolica del Sacro Cuore, Brescia)
 - 16:00 - 16:30: Closing remarks
 
-All times in BST (GMT + 1) time zone
+All times in British Summer Time (GMT + 1) zone.
 
 ## Topics and Abstracts
 
