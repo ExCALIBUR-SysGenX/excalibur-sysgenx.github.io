@@ -13,7 +13,7 @@ Topics include (but are not restricted to) computational fluid dynamics, model o
 - 13:15 - 14:00: (Gianluigi Rozza; Scuola Internazionale Superiore di Studi Avanzati, Trieste)
 - 14:00 - 14:45: (Mario Ohlberger; Westfälische Wilhelms-Universität Münster)
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: (Urban Fasel; Imperial College, London)
+- 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning
 - 16:00 - 16:45: (Zhiqiang Cai; Purdue University)
 
 ### Day 2: 22 September 13:00-16:30
