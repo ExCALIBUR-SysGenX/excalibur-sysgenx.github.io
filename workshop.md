@@ -33,6 +33,12 @@ All times in British Summer Time (GMT + 1) zone.
 
 The sparse identification of nonlinear dynamics (SINDy) algorithm can identify dynamical system models purely from data. In this talk, I will present recent work on extending the SINDy algorithm using ensemble learning to identify interpretable and generalizable models in the low-data and high-noise limit. We apply the ensemble-SINDy (E-SINDy) algorithm to a range of challenging synthetic and real-world data sets and demonstrate substantial improvements to the accuracy and robustness of model discovery from noisy and limited data. E-SINDy is computationally efficient, with similar scaling as standard SINDy. We show that E-SINDy can perform efficient uncertainty estimation and probabilistic forecasts, compared to expensive Bayesian uncertainty quantification methods via MCMC. Finally, we show that ensemble statistics from E-SINDy can be used for active learning and improved model predictive control.
 
+### Volker Mehrmann: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
+
+We show how to design model order reduction techniques for systems with port-Hamiltonian structure arising in the discretization of problems from fluid dyanmics. We describe the available techniques and how they can be modified to preserve the port-Hamiltonian structure and at the same time handle the physical conservation laws, like conservation of mass and momentum, in the reduced model.
+
+Besides these challenges we also discuss how reduced models can be generated purely from data. The performance of the methods is illustrated for benchmark examples originating from semi-discretized flow problems, acoustic fields in gas networks, and mechanical multibody systems.
+
 ### Dirk Hartmann: Executable Digital Twins – Harnessing model order reduction to integrate the digital and real world
 
 As the complexity of our world continues to surge, digital twins, seamlessly interfacing the physical and digital spheres, are emerging as crucial decision-making tools for complex systems. This presentation explores the transformative concept of the 'executable digital twin', a self-contained and executable model encapsulating specific behaviors within a defined context.
