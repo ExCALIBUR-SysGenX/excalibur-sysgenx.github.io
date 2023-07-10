@@ -19,7 +19,7 @@ Topics include (but are not restricted to) computational fluid dynamics, model o
 ### Day 2: 22 September 13:00-16:30
 
 - 13:00 - 13:15: Introduction
-- 13:15 - 14:00: (Volker Mehrmann; Technische Universität Berlin)
+- 13:15 - 14:00: Volker Mehrmann, Technische Universität Berlin: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
 - 14:00 - 14:45: Dirk Hartmann, Siemens: Executable Digital Twins – Harnessing model order reduction to integrate the digital and real world
 - 14:45 - 15:15: Break
 - 15:15 - 16:00: (Francesco Ballarin; Università Cattolica del Sacro Cuore, Brescia)
