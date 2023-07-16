@@ -53,4 +53,4 @@ The potential of an executable digital twin will be illustrated with selected re
 
 ## Organisers
 
-Garth Wells, Chris Richardson, [Nirav Shah](nvs31@cam.ac.uk) (University of Cambridge)
+Garth Wells, Chris Richardson, [Nirav Shah](mailto:nvs31@cam.ac.uk) (University of Cambridge)
