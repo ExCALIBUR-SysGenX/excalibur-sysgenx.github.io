@@ -9,8 +9,8 @@ Topics include (but are not restricted to) computational fluid dynamics, model o
 
 ### Day 1: 15 September 13:00-17:00
 
-- 13:00 - 13:15: Opening statement (Garth Wells; University of Cambridge)
-- 13:15 - 14:00: (Gianluigi Rozza; Scuola Internazionale Superiore di Studi Avanzati, Trieste)
+- 13:00 - 13:15: Garth Wells, University of Cambridge: Opening statement
+- 13:15 - 14:00: Gianluigi Rozza, Scuola Internazionale Superiore di Studi Avanzati, Trieste: Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
 - 14:00 - 14:45: (Mario Ohlberger; Westfälische Wilhelms-Universität Münster)
 - 14:45 - 15:15: Break
 - 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning
@@ -28,6 +28,10 @@ Topics include (but are not restricted to) computational fluid dynamics, model o
 All times in British Summer Time (GMT + 1) zone.
 
 ## Topics and Abstracts
+
+### Gianluigi Rozza: Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
+
+We provide the state of the art of Reduced Order Methods (ROM) for parametric Partial Differential Equations (PDEs), and we focus on some perspectives in their current trends and developments, with a special interest in parametric problems arising in offline-online Computational Fluid Dynamics (CFD). Recent developments involve a better integration of emerging topics with model reduction, such as high performance computing (HPC), uncertainty quantification (UQ), data science (DS), machine learning (ML) in a data driven perspective, in order to allow a better exploitation of digital twins. All the previous aspects are quite relevant -- and often challenging —  when well integrated also in CFD problems, including turbulence, to focus on real time simulations for complex parametric industrial, environmental and biomedical flows, or even in a flow control/inverse problems setting with data assimilation. Crucial aspects to be addressed are related with uniqueness, stability, accuracy, as well as reliability of solutions. Some model problems will be illustrated by focusing on few benchmark study cases, for example on fluid-structure interaction problems and/or on shape optimisation, applied to some industrial and applied science problems of interest.
 
 ### Urban Fasel: Robust Model Discovery with SINDy and Ensemble Learning
 
