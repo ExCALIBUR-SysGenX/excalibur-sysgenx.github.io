@@ -3,7 +3,7 @@ layout: page
 title: Online Workshop - Scientific machine learning and Model order reduction for partial differential equations
 ---
 
-Topics include (but are not restricted to) computational fluid dynamics, model order reduction, neural networks and numerical PDEs, port-Hamiltonian systems and scientific machine learning with application to engineering and industrial problems.
+Topics include computational fluid dynamics, model order reduction, neural networks and numerical PDEs, port-Hamiltonian systems and scientific machine learning with application to engineering and industrial problems.
 
 ## Schedule
 
@@ -11,10 +11,10 @@ Topics include (but are not restricted to) computational fluid dynamics, model o
 
 - 13:00 - 13:15: Garth Wells, University of Cambridge: Opening statement
 - 13:15 - 14:00: Gianluigi Rozza, Scuola Internazionale Superiore di Studi Avanzati, Trieste: Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
-- 14:00 - 14:45: (Mario Ohlberger; Westfälische Wilhelms-Universität Münster)
+- 14:00 - 14:45: Mario Ohlberger, Westfälische Wilhelms-Universität, Münster
 - 14:45 - 15:15: Break
 - 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning
-- 16:00 - 16:45: (Zhiqiang Cai; Purdue University)
+- 16:00 - 16:45: Zhiqiang Cai, Purdue University
 
 ### Day 2: 22 September 13:00-16:30
 
@@ -22,7 +22,7 @@ Topics include (but are not restricted to) computational fluid dynamics, model o
 - 13:15 - 14:00: Volker Mehrmann, Technische Universität Berlin: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
 - 14:00 - 14:45: Dirk Hartmann, Siemens: Executable Digital Twins – Harnessing model order reduction to integrate the digital and real world
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: (Francesco Ballarin; Università Cattolica del Sacro Cuore, Brescia)
+- 15:15 - 16:00: Francesco Ballarin, Università Cattolica del Sacro Cuore, Brescia
 - 16:00 - 16:30: Closing remarks
 
 All times in British Summer Time (GMT + 1) zone.
