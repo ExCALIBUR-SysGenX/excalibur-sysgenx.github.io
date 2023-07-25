@@ -14,7 +14,7 @@ Topics include computational fluid dynamics, model order reduction, neural netwo
 - 14:00 - 14:45: Mario Ohlberger, Westfälische Wilhelms-Universität, Münster
 - 14:45 - 15:15: Break
 - 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning
-- 16:00 - 16:45: Zhiqiang Cai, Purdue University
+- 16:00 - 16:45: Zhiqiang Cai, Purdue University: Least-Squares Neural Network (LSNN) Method for Scalar Hyperbolic Conservation Laws
 
 ### Day 2: 22 September 13:00-16:30
 
@@ -36,6 +36,12 @@ We provide the state of the art of Reduced Order Methods (ROM) for parametric Pa
 ### Urban Fasel: Robust Model Discovery with SINDy and Ensemble Learning
 
 The sparse identification of nonlinear dynamics (SINDy) algorithm can identify dynamical system models purely from data. In this talk, I will present recent work on extending the SINDy algorithm using ensemble learning to identify interpretable and generalizable models in the low-data and high-noise limit. We apply the ensemble-SINDy (E-SINDy) algorithm to a range of challenging synthetic and real-world data sets and demonstrate substantial improvements to the accuracy and robustness of model discovery from noisy and limited data. E-SINDy is computationally efficient, with similar scaling as standard SINDy. We show that E-SINDy can perform efficient uncertainty estimation and probabilistic forecasts, compared to expensive Bayesian uncertainty quantification methods via MCMC. Finally, we show that ensemble statistics from E-SINDy can be used for active learning and improved model predictive control.
+
+### Zhiqiang Cai: Least-Squares Neural Network (LSNN) Method for Scalar Hyperbolic Conservation Laws
+
+Solutions of nonlinear scalar hyperbolic conservation laws (HCLs) are often discontinuous due to shock formation; moreover, locations of shocks are a priori unknown. This presents a great challenge for traditional numerical methods because most of them are based on continuous or discontinuous piecewise polynomials on fixed meshes.
+
+As an alternative, by employing a new class of approximating functions, neural network (NN), recently we proposed the least-squares neural network (LSNN) method for solving HCLs. The LSNN method shows a great potential to sharply capture shock without oscillation or smearing; moreover, its degrees of freedom are much less than those of mesh-based methods. Nevertheless, current iterative solvers for the LSNN discretization are computationally intensive and complicated.
 
 ### Volker Mehrmann: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
 
