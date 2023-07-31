@@ -22,7 +22,7 @@ Topics include computational fluid dynamics, model order reduction, neural netwo
 - 13:15 - 14:00: Volker Mehrmann, Technische Universität Berlin: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
 - 14:00 - 14:45: Dirk Hartmann, Siemens: Executable Digital Twins – Harnessing model order reduction to integrate the digital and real world
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: Francesco Ballarin, Università Cattolica del Sacro Cuore, Brescia
+- 15:15 - 16:00: Francesco Ballarin, Università Cattolica del Sacro Cuore, Brescia: Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations
 - 16:00 - 16:30: Closing remarks
 
 All times in British Summer Time (GMT + 1) zone.
@@ -56,6 +56,22 @@ As the complexity of our world continues to surge, digital twins, seamlessly int
 We will place particular emphasis on the role of non-intrusive model order reduction technology. This technology enables the generation of reduced, manageable models without compromising the essential features of the original system, thereby enhancing computational efficiency, and facilitating real-time execution. In this talk, we will not limit our focus to model order reduction technology but will consider a multitude of technologies required in the complete industrial workflow of generating and operating an 'executable digital twin'. We will cover key concepts such as the design of experiments for data generation, state estimation, calibration, as well as hybrid physics- and data-driven models.
 
 The potential of an executable digital twin will be illustrated with selected real-world examples – from virtual thermal sensors in electric machines to optimal control of manufacturing processes.
+
+### Francesco Ballarin: Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations
+
+Numerical stabilization is often used to alleviate the spurious oscillations generally produced by full order models (FOMs) in under-resolved or marginally-resolved simulations of convection-dominated flows modelled by the incompressible Navier-Stokes equations. However, when dealing with reduced order models (ROMs) of convection-dominated, marginally-resolved flows, the role of numerical stabilization is still not well understood.
+
+In the first part of this presentation, based on [1], we investigate the FOM-ROM consistency, i.e., whether the numerical stabilization is beneficial both at the FOM and the ROM level. As a numerical stabilization strategy, we focus on the evolve-filter-relax (EFR) regularization algorithm, which centers around spatial filtering.
+
+In the second part of this presentation, related to [2], we apply the resulting ROM to a case of feedback control, where the forcing term acts as a feedback on the Navier-Stokes equations in order to reach a desired goal, measured as a distance between the numerical solution and a desired velocity.
+
+In the final part of the presentation we will introduce a novel ROM, based on approximate deconvolution [3].
+
+Results on relevant test cases in fluid dynamics will be discussed, alongside their implementation in RBniCSx.
+
+[1] M. Strazzullo, M. Girfoglio, F. Ballarin, T. Iliescu, G. Rozza. Consistency of the full and reduced order models for evolve-filter-relax regularization of convection-dominated, marginally-resolved flows. International Journal for Numerical Methods in Engineering, 123(14):3148–3178, 2022.
+[2] M. Strazzullo, F. Ballarin, T. Iliescu, C. Canuto. New feedback control and adaptive evolve-filter-relax regularization for the Navier-Stokes equations in the convection-dominated regime. Submitted, 2023. arXiv:2307.00675.
+[3] A. Sanfilippo, I. Moore, F. Ballarin, T. Iliescu. Approximate deconvolution Leray reduced order model for convection-dominated flows. Submitted, 2023. arXiv:2307.10817.
 
 ## Registration
 
