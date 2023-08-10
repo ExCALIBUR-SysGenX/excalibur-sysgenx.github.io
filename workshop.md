@@ -3,7 +3,7 @@ layout: page
 title: Online Workshop - Scientific machine learning and Model order reduction for partial differential equations
 ---
 
-Topics include computational fluid dynamics, model order reduction, neural networks and numerical PDEs, port-Hamiltonian systems and scientific machine learning with application to engineering and industrial problems.
+This workshop presents series of talks focused on developments in scientific machine learning and model order reduction with application to engineering and industrial problems. The topics include Reduced order modelling in computational fluid dynamics, Sparse identification of nonlinear dynamics method and ensemble learning, Least-squares neural network method, Model reduction for port-Hamiltonian systems, Executable digital twins and Reduced order models for Navier-Stokes equation.
 
 ## Schedule
 
@@ -43,7 +43,7 @@ Solutions of nonlinear scalar hyperbolic conservation laws (HCLs) are often disc
 
 As an alternative, by employing a new class of approximating functions, neural network (NN), recently we proposed the least-squares neural network (LSNN) method for solving HCLs. The LSNN method shows a great potential to sharply capture shock without oscillation or smearing; moreover, its degrees of freedom are much less than those of mesh-based methods. Nevertheless, current iterative solvers for the LSNN discretization are computationally intensive and complicated.
 
-### Volker Mehrmann: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
+### Volker Mehrmann: Model reduction for port-Hamiltonian systems arising in fluid dynamics
 
 We show how to design model order reduction techniques for systems with port-Hamiltonian structure arising in the discretization of problems from fluid dyanmics. We describe the available techniques and how they can be modified to preserve the port-Hamiltonian structure and at the same time handle the physical conservation laws, like conservation of mass and momentum, in the reduced model.
 
@@ -70,7 +70,9 @@ In the final part of the presentation we will introduce a novel ROM, based on ap
 Results on relevant test cases in fluid dynamics will be discussed, alongside their implementation in RBniCSx.
 
 [1] M. Strazzullo, M. Girfoglio, F. Ballarin, T. Iliescu, G. Rozza. Consistency of the full and reduced order models for evolve-filter-relax regularization of convection-dominated, marginally-resolved flows. International Journal for Numerical Methods in Engineering, 123(14):3148–3178, 2022.
+
 [2] M. Strazzullo, F. Ballarin, T. Iliescu, C. Canuto. New feedback control and adaptive evolve-filter-relax regularization for the Navier-Stokes equations in the convection-dominated regime. Submitted, 2023. arXiv:2307.00675.
+
 [3] A. Sanfilippo, I. Moore, F. Ballarin, T. Iliescu. Approximate deconvolution Leray reduced order model for convection-dominated flows. Submitted, 2023. arXiv:2307.10817.
 
 ## Registration
