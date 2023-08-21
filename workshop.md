@@ -11,7 +11,7 @@ This workshop presents series of talks focused on developments in scientific mac
 
 - 13:00 - 13:15: Garth Wells, University of Cambridge: Opening statement
 - 13:15 - 14:00: Gianluigi Rozza, Scuola Internazionale Superiore di Studi Avanzati, Trieste: Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
-- 14:00 - 14:45: Mario Ohlberger, Westfälische Wilhelms-Universität, Münster
+- 14:00 - 14:45: Mario Ohlberger, Westfälische Wilhelms-Universität, Münster: Model Reduction and Learning for PDE Constrained Optimization
 - 14:45 - 15:15: Break
 - 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning
 - 16:00 - 16:45: Zhiqiang Cai, Purdue University: Least-Squares Neural Network (LSNN) Method for Scalar Hyperbolic Conservation Laws
@@ -32,6 +32,10 @@ All times in British Summer Time (GMT + 1) zone.
 ### Gianluigi Rozza: Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
 
 We provide the state of the art of Reduced Order Methods (ROM) for parametric Partial Differential Equations (PDEs), and we focus on some perspectives in their current trends and developments, with a special interest in parametric problems arising in offline-online Computational Fluid Dynamics (CFD). Recent developments involve a better integration of emerging topics with model reduction, such as high performance computing (HPC), uncertainty quantification (UQ), data science (DS), machine learning (ML) in a data driven perspective, in order to allow a better exploitation of digital twins. All the previous aspects are quite relevant -- and often challenging —  when well integrated also in CFD problems, including turbulence, to focus on real time simulations for complex parametric industrial, environmental and biomedical flows, or even in a flow control/inverse problems setting with data assimilation. Crucial aspects to be addressed are related with uniqueness, stability, accuracy, as well as reliability of solutions. Some model problems will be illustrated by focusing on few benchmark study cases, for example on fluid-structure interaction problems and/or on shape optimisation, applied to some industrial and applied science problems of interest.
+
+### Mario Ohlberger: Model Reduction and Learning for PDE Constrained Optimization
+
+Model order reduction for parameterized systems has gained a lot of attention in the last two decades. In this talk we will focus on projection based model order reduction and their efficient application to solve large scale PDE constrained optimization problems. We will discuss learning strategies, such as adaptive enrichment as well as a combination of reduced order models with machine learning approaches in the contest of time dependent problems. Concepts of rigorous certification and convergence will be presented, as well as numerical experiments that demonstrate the efficiency of the proposed approaches.
 
 ### Urban Fasel: Robust Model Discovery with SINDy and Ensemble Learning
 
