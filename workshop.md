@@ -11,10 +11,10 @@ This workshop presents series of talks focused on developments in scientific mac
 
 - 13:00 - 13:15: Garth Wells, University of Cambridge: Opening statement
 - 13:15 - 14:00: Gianluigi Rozza, Scuola Internazionale Superiore di Studi Avanzati, Trieste: Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
-- 14:00 - 14:45: Mario Ohlberger, Westfälische Wilhelms-Universität, Münster: Model Reduction and Learning for PDE Constrained Optimization
+- 14:00 - 14:45: Mario Ohlberger, Westfälische Wilhelms-Universität, Münster: Model Reduction and Learning for PDE Constrained Optimization [Recording](https://www.youtube.com/watch?v=ZtXrTqFfqoQ&ab_channel=Excalibur)
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning
-- 16:00 - 16:45: Zhiqiang Cai, Purdue University: Least-Squares Neural Network (LSNN) Method for Scalar Hyperbolic Conservation Laws
+- 15:15 - 16:00: Urban Fasel, Imperial College, London: Robust Model Discovery with SINDy and Ensemble Learning [Recording](https://www.youtube.com/watch?v=N_OnP3aRfDQ&ab_channel=Excalibur)
+- 16:00 - 16:45: Zhiqiang Cai, Purdue University: Least-Squares Neural Network (LSNN) Method for Scalar Hyperbolic Conservation Laws [Recording](https://www.youtube.com/watch?v=ZU6tTTMNt7s&ab_channel=Excalibur)
 
 ### Day 2: 22 September 13:00-16:30
 
@@ -22,7 +22,7 @@ This workshop presents series of talks focused on developments in scientific mac
 - 13:15 - 14:00: Volker Mehrmann, Technische Universität Berlin: Model reduction  for port-Hamiltonian systems arising in fluid dynamics
 - 14:00 - 14:45: Dirk Hartmann, Siemens: Executable Digital Twins – Harnessing model order reduction to integrate the digital and real world
 - 14:45 - 15:15: Break
-- 15:15 - 16:00: Francesco Ballarin, Università Cattolica del Sacro Cuore, Brescia: Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations
+- 15:15 - 16:00: Francesco Ballarin, Università Cattolica del Sacro Cuore, Brescia: Reduced order models for evolve-filter-relax regularization of Navier-Stokes equations [Recording](https://www.youtube.com/watch?v=GWNmVBssjHc&ab_channel=Excalibur)
 - 16:00 - 16:30: Closing remarks
 
 All times in British Summer Time (GMT + 1) zone.
