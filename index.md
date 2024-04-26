@@ -10,6 +10,10 @@ and is a collaboration between researchers and developers at the
 following UK institutions: University of Cambridge, Imperial College London,
 University College London, University of Oxford.
 
+## Latest
+
+We are delighted to be hosting Graham Markall for an [online Zoom Seminar on 8th May](special_seminar).
+
 
 <div>
 <div style="float: left; padding: 10px ">
