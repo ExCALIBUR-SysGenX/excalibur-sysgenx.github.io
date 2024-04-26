@@ -12,7 +12,10 @@ University College London, University of Oxford.
 
 ## Latest
 
-We are delighted to be hosting Graham Markall for an [online Zoom Seminar on 8th May](special_seminar).
+* The international [PDESoft](https://pdesoft.org) conference will
+ take place in Cambridge on 1-3 July 2024, hosted by the SysGenX
+ team.
+* We are delighted to be hosting Graham Markall for an [online Zoom Seminar on 8th May](special_seminar).
 
 
 <div>
