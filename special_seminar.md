@@ -5,9 +5,9 @@ title: Accelerated Python with Numba
 
 ## Special Guest Seminar - Graham Markall (NVIDIA)
 
-**Zoom webinar 8th May 2024 14:00 BST**
+**8th May 2024 14:00 BST**
 
-[Join the webinar](https://ucl.zoom.us/j/97774126039?pwd=Q25rVFJJWXloS0xjZFRwUVpGeWRJUT09)
+[Recording](https://www.youtube.com/watch?v=eTcDSUKxMKw)
 
 [Numba](https://numba.pydata.org, https://numba.readthedocs.io) is a
 Python compiler focused on accelerating workloads common in the Data
