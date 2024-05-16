@@ -8,6 +8,8 @@ title: Accelerated Python with Numba
 **8th May 2024 14:00 BST**
 
 [Recording](https://www.youtube.com/watch?v=eTcDSUKxMKw)
+[Slides](https://github.com/gmarkall/excalibur-sysgenx-numba-talk/raw/main/accelerated-python-with-numba.pdf)
+[Github Repository](https://github.com/gmarkall/excalibur-sysgenx-numba-talk)
 
 [Numba](https://numba.pydata.org, https://numba.readthedocs.io) is a
 Python compiler focused on accelerating workloads common in the Data
